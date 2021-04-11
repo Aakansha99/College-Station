@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.fakeimg {
+  width: 250px;
+  height: 200px;
+}
+img {
+  width: 200px;
+  height: 100%;
+}
+
+.edu {
+  margin-bottom: 20px;
+
+}
+
+.interest , .skills, .tag, .username, .about {
+  color:#51E1ED;
+  font-size: larger;
+}
+
+
+/* Header/logo Title */
+.header {
+  padding: 80px;
+  text-align: center;
+  background-color: blue;
+  margin-top: 0%;
+}
+
+/* Increase the font size of the heading */
+.header h1 {
+  font-size: 40px;
+}
+
+/* Column container */
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  
+  background-color: azure;
+  padding: 10px;
+}
+
+/* Main column */
+.main {
+  background-color: white;
+  padding: 10px;
+  width: auto;
+  
+}
+
+/* Fake image, just for this example */
+.fakeimg {
+  width: 200px;
+}
+.fakeimg img {
+  border-radius: 50%;
+}
+
+.profile-bg{
+  background-color: #3d7eec;
+  background: url("https://images.unsplash.com/photo-1496167117681-944f702be1f4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80");
+}
+
+.profile-info{
+  margin: 30px;
+  padding: 15px 15px 5px;
+  width: 80%;
+  background-color: #03203C;
+  border-radius: 15px;
+}

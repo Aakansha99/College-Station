@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39ca019f.chunk.css",
+    "main.js": "/static/js/main.23b5a7a1.chunk.js",
+    "main.js.map": "/static/js/main.23b5a7a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/js/2.5b3be78a.chunk.js": "/static/js/2.5b3be78a.chunk.js",
+    "static/js/2.5b3be78a.chunk.js.map": "/static/js/2.5b3be78a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.39ca019f.chunk.css.map": "/static/css/main.39ca019f.chunk.css.map",
+    "static/js/2.5b3be78a.chunk.js.LICENSE.txt": "/static/js/2.5b3be78a.chunk.js.LICENSE.txt",
+    "static/media/Logo.e694f0f4.png": "/static/media/Logo.e694f0f4.png",
+    "static/media/Wave.31eeac4e.png": "/static/media/Wave.31eeac4e.png",
+    "static/media/Waves.bb91f67f.svg": "/static/media/Waves.bb91f67f.svg",
+    "static/media/addnotes.062c98db.png": "/static/media/addnotes.062c98db.png",
+    "static/media/askandclear.d77126f3.png": "/static/media/askandclear.d77126f3.png",
+    "static/media/askquery.74765c66.png": "/static/media/askquery.74765c66.png",
+    "static/media/codetogether.7d45d3cb.jpg": "/static/media/codetogether.7d45d3cb.jpg",
+    "static/media/colab.0e7847eb.png": "/static/media/colab.0e7847eb.png",
+    "static/media/connectwithus.b5d1aa71.jpg": "/static/media/connectwithus.b5d1aa71.jpg",
+    "static/media/contact.c7bb13b6.png": "/static/media/contact.c7bb13b6.png",
+    "static/media/createprofile.0c8c7cf0.png": "/static/media/createprofile.0c8c7cf0.png",
+    "static/media/eduImage.ca5cc4f9.png": "/static/media/eduImage.ca5cc4f9.png",
+    "static/media/expImage.1368635b.png": "/static/media/expImage.1368635b.png",
+    "static/media/footer.aa0407cc.png": "/static/media/footer.aa0407cc.png",
+    "static/media/getnote.25758a4a.png": "/static/media/getnote.25758a4a.png",
+    "static/media/landingpage.82ce0ae8.png": "/static/media/landingpage.82ce0ae8.png",
+    "static/media/newPostImage.1368635b.png": "/static/media/newPostImage.1368635b.png",
+    "static/media/profImage.0347a1ca.png": "/static/media/profImage.0347a1ca.png",
+    "static/media/rateprofiles.b8afa327.png": "/static/media/rateprofiles.b8afa327.png",
+    "static/media/studytogethe.b3e950ef.jpg": "/static/media/studytogethe.b3e950ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/js/2.5b3be78a.chunk.js",
+    "static/css/main.39ca019f.chunk.css",
+    "static/js/main.23b5a7a1.chunk.js"
+  ]
+}

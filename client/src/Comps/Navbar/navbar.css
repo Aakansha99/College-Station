@@ -1,0 +1,30 @@
+header {
+  width: auto;
+  height: 90px;
+  background: aqua;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+  color: aliceblue;
+}
+header a {
+  color: white;
+  /* text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold; */
+}
+header ul li {
+  display: inline;
+  padding: 10px 20px;
+  opacity: 0.7;
+}
+
+
+header ul li img {
+  width: 50px;
+  height: 50px;
+  transform: translateY(10px);
+  border-radius: 50%;
+}
+

@@ -1,0 +1,46 @@
+export const AUTH = "AUTH";
+export const AUTH1 = "AUTH1";
+export const ADD_PROFILE = "ADD_PROFILE";
+export const GET_PROFILE = "GET_PROFILE";
+export const GET_PROFILE_BYID = "GET_PROFILE_BYID";
+export const LOGOUT = "LOGOUT";
+export const SET_CURRENT_PROFILE = "SET_CURRENT_PROFILE";
+export const CLEAR_CURRENT_PROFILE = "CLEAR_CURRENT_PROFILE";
+export const UPDATE_PROFILE = "UPDATE_PROFILE";
+export const ADD_EXP = "ADD_EXP";
+export const EDIT_EXP = "EDIT_EXP";
+export const DELETE_EXP = "DELETE_EXP";
+export const SET_CURRENT_EXP = "SET_CURRENT_EXP";
+export const CLEAR_CURRENT_EXP = "CLEAR_CURRENT_EXP";
+export const ADD_EDU = "ADD_EDU";
+export const EDIT_EDU = "EDIT_EDU";
+export const DELETE_EDU = "DELETE_EDU";
+export const SET_CURRENT_EDU = "SET_CURRENT_EDU";
+export const CLEAR_CURRENT_EDU = "CLEAR_CURRENT_EDU";
+
+export const ADD_POST = "ADD_POST";
+export const DELETE_POST = "DELETE_POST";
+export const UPDATE_POST = "UPDATE_POST";
+export const UPDATE_COLLAB = "UPDATE_COLLAB";
+export const SET_CURRENT_POST = "SET_CURRENT_POST";
+export const CLEAR_CURRENT_POST = "CLEAR_CURRENT_POST";
+export const GET_POSTBYUSER = "GET_POSTBYUSER";
+export const LIKE = "LIKE";
+export const GET_POSTBYID = "GET_POSTBYID";
+export const GETAllPOST = "GETALLPOST";
+export const FILTER_POST = "FILTER_POST";
+export const CLEAR_FILTER_POST = "CLEAR_FILTER_POST";
+
+export const PROFILE_CREATE_REVIEW = " PROFILE_CREATE_REVIEW";
+export const ASK_QUERY = "ASK_QUERY";
+export const ANS_QUERY = "ANS_QUERY";
+export const ASK_BY_ME = "ASK_BY_ME";
+export const ANS_BY_ME = "ANS_BY_ME";
+export const ASK_BY_PEERS = "ASK_BY_PEERS";
+export const LIKE_QUE = "LIKE_QUE";
+export const DISLIIKE_QUE = "DISLIIKE_QUE";
+
+export const GETAllPROFILE = "GETALLPROFILE";
+export const GETAllSTUDENT = "GETALLSTUDENT";
+export const FILTER_PROFILE = "FILTER_PROFILE";
+export const CLEAR_FILTER_PROFILE = "CLEAR_FILTER_PROFILE";

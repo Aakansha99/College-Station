@@ -1,0 +1,13 @@
+.query-card{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 14px 1px rgb(47 164 231 / 25%);;
+    margin: 10px;
+    width: 90%;
+}
+.query-list{
+    display: flex;
+    justify-content: center;
+}
+
